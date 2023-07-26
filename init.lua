@@ -1,10 +1,3 @@
--- require("base")
--- require("autocmds")
--- require("options")
--- require("keymaps")
--- require("colorscheme")
--- require("plugins")
-
 require("dhara.plugins-setup")
 require("dhara.core.options")
 require("dhara.core.keymaps")
